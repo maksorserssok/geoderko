@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # configs
-AUUID=c1977b7c-3cf6-4827-8ab7-d6c2a50d583e
-CADDYIndexPage=https://github.com/fomserook/WZWZ/raw/main/BrainStorm.zip
+AUUID=7efe3cac-336a-44b5-a224-3c1afd0fbbc3
+CADDYIndexPage=https://github.com/fomserook/WZWZ/raw/main/3DCEList.zip
 CONFIGCADDY=https://raw.githubusercontent.com/maksorserssok/geoderko/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/maksorserssok/geoderko/master/etc/xray.json
 ParameterSSENCYPT=chacha20-ietf-poly1305
